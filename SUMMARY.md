@@ -12,5 +12,5 @@
 * [Visi Misi](muda-merdeka/visi-misi.md)
 * [Agenda](muda-merdeka/agenda.md)
 * [Coblos Golput](muda-merdeka/coblos-golput.md)
-* [Judicial Review](muda-merdeka/judicial-review.md)
 * [Rintisan Partai Baru](muda-merdeka/rintisan-partai-baru.md)
+* [Judicial Review](muda-merdeka/judicial-review.md)
