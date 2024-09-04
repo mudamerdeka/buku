@@ -14,7 +14,7 @@ layout:
 
 # Muda Merdeka
 
-Mari berjuang bersama membongkar oligarki politik di Indonesia.&#x20;
+ri berjuang bersama membongkar oligarki politik di Indonesia.&#x20;
 
 ### Join / Follow
 
@@ -22,4 +22,4 @@ Mari berjuang bersama membongkar oligarki politik di Indonesia.&#x20;
 
 ### Pelajari
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td><strong>Visi Misi</strong></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Latar Belakang</strong></td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Visi Misi</strong></td><td></td><td></td><td><a href="muda-merdeka/visi-misi.md">visi-misi.md</a></td></tr><tr><td><strong>Rintisan Partai Baru</strong></td><td></td><td></td><td><a href="muda-merdeka/rintisan-partai-baru.md">rintisan-partai-baru.md</a></td></tr></tbody></table>

@@ -2,17 +2,15 @@
 
 * [Muda Merdeka](README.md)
 
-## Tentang
+## Latar Belakang
 
-* [Latar Belakang](tentang/latar-belakang.md)
-* [Sejarah](tentang/sejarah.md)
-* [Visi Misi](tentang/visi-misi.md)
+* [Titik Nadir Demokrasi](latar-belakang/titik-nadir-demokrasi.md)
+* [Pergerakan Politik](latar-belakang/pergerakan-politik.md)
 
-## Basics
+## Muda Merdeka
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Visi Misi](muda-merdeka/visi-misi.md)
+* [Agenda](muda-merdeka/agenda.md)
+* [Coblos Golput](muda-merdeka/coblos-golput.md)
+* [Judicial Review](muda-merdeka/judicial-review.md)
+* [Rintisan Partai Baru](muda-merdeka/rintisan-partai-baru.md)
