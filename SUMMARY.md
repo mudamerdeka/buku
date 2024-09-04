@@ -2,10 +2,11 @@
 
 * [Muda Merdeka](README.md)
 
-## Getting Started
+## Tentang
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Latar Belakang](tentang/latar-belakang.md)
+* [Sejarah](tentang/sejarah.md)
+* [Visi Misi](tentang/visi-misi.md)
 
 ## Basics
 
