@@ -14,7 +14,9 @@ layout:
 
 # Muda Merdeka
 
-Mari berjuang bersama membongkar oligarki politik dan ekonomi di Indonesia, agar terwujud kesejahteraan dan kesetaraan bagi seluruh rakyat.
+Kami adalah pergerakan politik yang bertujuan untuk membebaskan Indonesia dari oligarki dan dinasti politik. Kami percaya bahwa perjuangan ini membutuhkan kombinasi upaya dari dalam sistem maupun di luar sistem. Kami independen tapi tidak netral, karena perjuangan membutuhkan keberpihakan.
+
+Pelajari lebih lanjut tentang Muda Merdeka di website ini dan di media sosial berikut.&#x20;
 
 ### Join / Follow
 

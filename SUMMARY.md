@@ -5,7 +5,7 @@
 ## Latar Belakang
 
 * [Titik Nadir Demokrasi](latar-belakang/titik-nadir-demokrasi.md)
-* [Pergerakan Politik](latar-belakang/pergerakan-politik.md)
+* [Rintisan Partai Politik](latar-belakang/rintisan-partai-politik.md)
 
 ## Muda Merdeka
 
