@@ -12,9 +12,9 @@ layout:
     visible: true
 ---
 
-# Muda Merdeka
+# MUDA MERDEKA
 
-Kami adalah pergerakan politik yang bertujuan untuk membebaskan Indonesia dari oligarki dan dinasti politik. Kami percaya bahwa perjuangan ini membutuhkan kombinasi upaya dari dalam sistem maupun di luar sistem. Kami independen tapi tidak netral, karena perjuangan membutuhkan keberpihakan.
+Mari berjuang membebaskan politik Indonesia dari kekuasaan oligarki, bersama Muda Merdeka, pergerakan politik independen kaum muda.&#x20;
 
 Pelajari lebih lanjut tentang Muda Merdeka di website ini dan di media sosial berikut.&#x20;
 
@@ -24,4 +24,4 @@ Pelajari lebih lanjut tentang Muda Merdeka di website ini dan di media sosial be
 
 ### Pelajari
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Latar Belakang</strong></td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Agenda</strong></td><td></td><td></td><td><a href="muda-merdeka/agenda.md">agenda.md</a></td></tr><tr><td><strong>Rintisan Partai Baru</strong></td><td></td><td></td><td><a href="muda-merdeka/rintisan-partai-baru.md">rintisan-partai-baru.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Latar Belakang</strong></td><td></td><td></td><td><a href="latar-belakang.md">latar-belakang.md</a></td></tr><tr><td><strong>Rintisan Partai Politik</strong></td><td></td><td></td><td><a href="rintisan-partai-politik.md">rintisan-partai-politik.md</a></td></tr><tr><td><strong>Agenda</strong></td><td></td><td></td><td><a href="muda-merdeka/agenda.md">agenda.md</a></td></tr></tbody></table>

@@ -1,15 +1,13 @@
 # Table of contents
 
-* [Muda Merdeka](README.md)
-
-## Latar Belakang
-
-* [Titik Nadir Demokrasi](latar-belakang/titik-nadir-demokrasi.md)
-* [Rintisan Partai Politik](latar-belakang/rintisan-partai-politik.md)
+* [MUDA MERDEKA](README.md)
+* [Latar Belakang](latar-belakang.md)
+* [Rintisan Partai Politik](rintisan-partai-politik.md)
 
 ## Muda Merdeka
 
-* [Visi Misi](muda-merdeka/visi-misi.md)
+* [Fitur](muda-merdeka/fitur.md)
+* [Visi Misi Nilai](muda-merdeka/visi-misi-nilai.md)
 * [Agenda](muda-merdeka/agenda.md)
 * [Coblos Golput](muda-merdeka/coblos-golput.md)
 * [Rintisan Partai Baru](muda-merdeka/rintisan-partai-baru.md)
